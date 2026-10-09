@@ -1,3 +1,6 @@
+Base de Dados:
+https://www.kaggle.com/datasets - Pesquisado por Filmes Netflix - 3 tópico e feito download
+
 Público-Alvo:
 Diretoria de Conteúdo, Gerência de Produtos de Streaming e Analistas de Negócio.
 

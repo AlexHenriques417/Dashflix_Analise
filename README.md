@@ -1,4 +1,4 @@
-# DASHFLIX — Análise de Dados e Dashboard do Catálogo de Filmes
+# DASHFLIX | Análise de Dados e Dashboard do Catálogo de Filmes
 Projetos de Business Intelligence e Storytelling com Dados aplicando o Framework C.I.A. (Contexto, Insights e Ações) sobre o catálogo de filmes.
 
 ## Objetivo do Projeto
@@ -26,4 +26,8 @@ A plataforma gerencia um acervo diversificado com mais de 6.000 filmes. Para aum
 - Visualização de Dados: Plotly Express
 - Dashboard Web: Streamlit
 - Versionamento: Git & GitHub
+
+## Para executar
+pip install -r requirements.txt
+streamlit run app.py
 
