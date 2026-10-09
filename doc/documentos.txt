@@ -1,0 +1,26 @@
+Público-Alvo:
+Diretoria de Conteúdo, Gerência de Produtos de Streaming e Analistas de Negócio.
+
+Perguntas de Negócio:
+Qual é o volume total de filmes disponíveis no catálogo?  
+Qual é a duração média e mediana dos filmes em acervo?   
+Quais são os 5 gêneros cinematográficos mais representativos?   
+Quem são os diretores com maior quantidade de produções no catálogo?   
+Como está distribuída a classificação indicativa (rating) do catálogo?   
+Qual o país com maior concentração de títulos produzidos?
+
+Contexto:
+A plataforma de streaming gerencia um acervo com 6.126 filmes, para otimizar 
+a retenção e o planejamento de novas aquisições de licenças, é crucial entender 
+a concentração por gêneros, o perfil de duração e o público etário atendido.
+
+Insights:
+Perfil do Acervo: A duração média das produções é de 99,6 minutos, com lançamentos que variam de 1942 a 2021.   
+Gêneros Dominantes: Os gêneros mais frequentes são International Movies (2.752 títulos) e Dramas (2.426 títulos), seguidos por Comédias (1.674 títulos).   
+Público-Alvo Predominante: A maior parte dos filmes possui classificação de 14 a 18 anos, indicando forte foco em audiência adulta e jovem/adulta.   
+Geografia da Produção: Os Estados Unidos concentram a liderança isolada com 2.395 títulos, seguidos pela Índia com 976 títulos.
+
+Ações: 
+Expandir investimento nos gêneros de Ação & Aventura e Filmes para Família para cobrir lacunas em relação aos gêneros predominantemente dramáticos.   
+Equilíbrio de Faixa Etária: Adquirir mais conteúdos com classificações abaixo de 13 anos para ampliar o tempo de tela do público familiar.   
+Parcerias Estratégicas Regionais: Estreitar acordos com estúdios na Índia e no mercado europeu para manter o fluxo do segmento International Movies, que é a categoria com maior presença.
